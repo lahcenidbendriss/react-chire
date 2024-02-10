@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://i0.wp.com/www.workstation.ma/wp-content/uploads/2021/02/THUNDERX3-TC5-Arctic-White.jpg?fit=600%2C600&ssl=1",
+      "name": "Chair WHITE Armor Gaming ONE Blanche ",
+      "description": "Typically , these chairs boast a distinctive and ergonomic design, featuring features tailored to the needs of avid gamers.",
+      "Price": "1460.00DH",
+      "type": "M-ONE",
+      "categorie": "Thunder"
+    },
+    {
+      "id": 2,
+      "image": "https://stationdetravail.ma/wp-content/uploads/2022/02/Gaming-Chaise-THUNDERX3-TC3-Bleu-11.jpg",
+      "name": "Chair BLUE Armor Gaming ONE Blue ",
+      "description": "Typically , these chairs boast a distinctive and ergonomic design, featuring features tailored to the needs of avid gamers.",
+      "Price": "1420.00DH",
+      "type": "M-TWO",
+      "categorie": "Armoung"
+    },
+    {
+      "id": 3,
+      "image": "https://static.mundomax.com.br/produtos/61903/2000/1.jpg",
+      "description": "Typically , these chairs boast a distinctive and ergonomic design, featuring features tailored to the needs of avid gamers.",
+      "name": "Cougar GREEN Armor Gaming ONE vers ",
+      "Price": "1620.00DH",
+      "type": "M-Three",
+      "categorie": "Everange"
+    },
+    {
+      "id": 4,
+      "image": "https://ordicaz.ma/cdn/shop/products/merci-3.jpg?v=1677753335",
+      "description": "Typically , these chairs boast a distinctive and ergonomic design, featuring features tailored to the needs of avid gamers.",
+      "name": "Chaise Jaune ThunderX3 Gamer yellow",
+      "Price": "1450.00DH",
+      "type": "M-FOR",
+      "categorie": "Thunder"
+    },
+    {
+      "id": 5,
+      "image": "https://neodirect.com/wp-content/uploads/2022/02/Main.jpg",
+      "description": "Typically , these chairs boast a distinctive and ergonomic design, featuring features tailored to the needs of avid gamers.",
+      "name": "Cougar Rouge for play Thunder Gamer Red",
+      "Price": "1850.00DH",
+      "type": "M-FIVE",
+      "categorie": "ArmorXL"
+    },
+    {
+      "id": 6,
+      "image":"https://cyber-planet.fr/wp-content/uploads/2023/03/Fauteuil-Gamer-ThunderX3-TC5-Noir-et-Rouge.jpg",
+      "description": "Typically , these chairs boast a distinctive and ergonomic design, featuring features tailored to the needs of avid gamers.",
+      "name": "Chair Blue Thunder4-D Gamer BLUE",
+      "Price": "1300.00DH",
+      "type": "M-SIX",
+      "categorie": "Armoung"
+    },
+    {
+      "id": 7,
+      "image": " https://www.rueducommerce.fr/medias/1b1d79d2c9fc3273a1f40c97078e525f/p_640x640/0840006616832-2.jpg",
+      "name": "Cougar RED-BLACK Armor Gaming ONE Black ",
+      "Price": "1420.00DH",
+      "description": "Typically , these chairs boast a distinctive and ergonomic design, featuring features tailored to the needs of avid gamers.",
+      "type": "M-SEVEN",
+      "categorie": "Thunder"
+    },
+    {
+      "id": 8,
+      "image": "https://subsonic.com/img/p/2/5/8/258.jpg",
+      "description": "Typically , these chairs boast a distinctive and ergonomic design, featuring features tailored to the needs of avid gamers.",
+      "name": "Chair Noir Armor Gaming EIGHT Black ",
+      "Price": "1400.00DH",
+      "type": "M-EIGHT",
+      "categorie": "Eibar-4K"
+    },
+    {
+      "id": 9,
+      "image": "https://i0.wp.com/www.workstation.ma/wp-content/uploads/2021/10/THUNDERX3-TC5-Sakura-White-maroc-iiiii.jpg?fit=800%2C800&ssl=1",
+      "name": "CoBou Rose Armor Gaming-NINE PINK ",
+      "Price": "1250.00DH",
+      "description": "Typically , these chairs boast a distinctive and ergonomic design, featuring features tailored to the needs of avid gamers.",
+      "type": "M-NINE",
+      "categorie": "ArmorXL"
+    },
+    {
+      "id": 10,
+      "image": "https://imagedelivery.net/JAV112JY973Crznn4xb8Sg/b9bdcae2-5716-4736-fc2f-4ffd7a558c00/public",
+      "name": "Cougar noir Armor Gaming ONE Black ",
+      "description": "Typically , these chairs boast a distinctive and ergonomic design, featuring features tailored to the needs of avid gamers.",
+      "Price": "1530.00DH",
+      "type": "M-TEN",
+      "categorie": "Everange"
+    },
+    {
+      "id": 11,
+      "image": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/03/151116/1.jpg?7444",
+      "name": "Chaise noir Armor Gaming ONE Black ",
+      "description": "Typically , these chairs boast a distinctive and ergonomic design, featuring features tailored to the needs of avid gamers.",
+      "Price": "1260.00DH",
+      "type": "M-ELEVEN",
+      "categorie": "ArmorXL"
+    },
+    {
+      "id": 12,
+      "image":"https://m.media-amazon.com/images/I/61+j1LPQimL.jpg",
+      "name": "CouL Noir Armor Gaming ONE Black ",
+      "description": "Typically , these chairs boast a distinctive and ergonomic design, featuring features tailored to the needs of avid gamers.",
+      "Price": "1580.00DH",
+      "type": "M-TWELVE",
+      "categorie": "Thunder"
+    }
+  ]
+}

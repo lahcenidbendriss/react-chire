@@ -1,0 +1,72 @@
+.about{
+    width: 100%;
+    padding: 27px 0; 
+
+}
+.about .min-png{
+    height: auto;
+    width: 420px;
+}
+.text-about{
+    width: 550px;
+
+}
+.text-main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.text-about .chiare-titel{
+    color: rgb(252, 70, 4);
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+
+}
+.text-about .paragraphe-style{
+    color: black;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 16px;
+    margin-bottom: 15px;
+
+}
+.button-about{
+    background-color: rgb(252, 70, 4);
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+}
+.button-about:hover{
+    background: transparent;
+    border: 2px solid rgb(252, 70, 4);
+    cursor: pointer;
+    color: black;
+}
+.back1{
+    width: 100px;
+    height: 100%;
+    background: transparent;
+    border: 1px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 22px;
+    color: white;
+    background-color: black;
+    font-weight: 600;
+    transition: .4s;
+    margin-left: 1190px;
+    margin-top: 25px;
+}
+.back1:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}

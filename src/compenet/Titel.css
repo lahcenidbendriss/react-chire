@@ -1,0 +1,48 @@
+.titel{
+    font-size: 48px;
+    color: #140c00;
+    padding-top: 10px;
+
+}
+.titel2{
+    font-size: 56px;
+    color: rgb(248, 66, 0);
+    padding-left: 40px;
+
+
+}
+.titel3{
+    font-size: 48px;
+    color: #140c00;
+
+}
+.generale{
+    font-family: sans-serif;
+    padding-left: 177px;
+    margin-bottom: -10px;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-image: url(../imageys/Gaming-Chair-PNG-Image-Background.png);
+    background-position: 75% 100%;
+    background-size:contain;
+    margin-top: 90px;
+}
+.title5{
+    color:#ff5e00;
+    font-size:22px;
+    margin-left:6px;
+}
+
+.title4{
+    color: #ff5e00;
+    font-size:25px;
+    margin-left:-16px;
+    
+}
+@media only screen and (max-width: 600px) {
+    .generale {
+        padding-left: 10px; /* Adjust padding for smaller screens */
+        background-position: bottom bottom; /* Center background image */
+        text-align:left; /* Center text */
+    }
+}

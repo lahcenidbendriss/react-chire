@@ -1,0 +1,90 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    margin-top: 67px;
+    
+  }
+  
+  .login-form {
+    width: 400px;
+    padding: 70px;
+    border: 1px solid #eda366;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+  }
+  
+  .form-group {
+    margin-bottom: 25px;
+    border-bottom: 2px solid rgb(0, 0, 0);
+  }
+
+  
+  .username-login {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 1em;
+    font-weight: 500;
+    pointer-events: none;
+  }
+  
+  .input-login {
+    width: 100%;
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    position: relative;
+    font-size: 1em;
+    font-weight: 600;
+    
+
+
+  }
+  
+  .error-message {
+    color: red;
+    margin-bottom: 10px;
+  }
+  .register-botn{
+    margin: 40px 10px;
+    font-size: .9em;
+    text-align: center;
+    font-weight: 500;
+  }
+  .Titel-h2{
+    font-size: 2em;
+    text-align: center;
+    color: rgb(255, 94, 0);
+  }
+  .btn3{
+    width: 100%;
+    height: 45px;
+    background-color: #f8cdad;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    cursor: pointer;
+    color: black;
+    font-weight: 500;
+
+  }
+  .register-link{
+    text-decoration: none;
+    font-weight: 600;
+  }
+  @media only screen and (max-width: 600px) {
+    .login-form {
+        padding: 15px;
+    }
+
+    .register-botn {
+        margin: 15px 10px;
+    }
+}
+
+  
